@@ -1,1 +1,0 @@
-Go downstairs or go upstairs
