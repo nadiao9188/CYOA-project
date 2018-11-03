@@ -1,3 +1,4 @@
-You go home and wake up the next day, living your normal life but you deccide to 
+Are you sure you want to go home?
 
-[Go back](../situations/start-abandoned-house.md)
+[I change my mind](../start-abandoned-house.md)
+[I'm sure]()
