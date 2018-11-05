@@ -1,4 +1,4 @@
-You go upstairs and the other killer in the house hears you and Chases you
+You go upstairs and the other killer in the house hears you and chases you. Do you ...
 
-[Fight](death.md)
+[Fight](death.md)  
 [Jump out the window](you-win.md)

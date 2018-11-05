@@ -1,3 +1,3 @@
 The Killer has CAUGHT YOU NOOOOOOO!!!!!!!
 
-[restart](../situations/start-abandoned-house.md)
+[Start over](../situations/start-abandoned-house.md)
