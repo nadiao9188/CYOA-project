@@ -1,5 +1,5 @@
 Someone was waiting for you downstairs  ...
 
-[Fight](../situations/you-win.md)
+[Fight](you-win.md)
 
-[Run away](../situtations/death.md)
+[Run away](.death.md)
