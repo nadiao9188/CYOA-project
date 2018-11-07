@@ -1,3 +1,5 @@
+## Choose Your Own Adventure Project
+---
 The purpose of creating this project was to create an ineractive experience for the users.The purpose was also to practice using/organizing files and folders and how to go from one to another
 
 Click [here](start-abandoned-house.md) to start  
