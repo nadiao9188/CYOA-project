@@ -1,6 +1,6 @@
 ### Abandoned House
 ---
-You are near an abandoned house. Do you ...
+You are walking home and you pass by an abandoned house. Do you ...
 
 ![Abandoned house](https://upload.wikimedia.org/wikipedia/commons/e/ed/Abandoned_house_in_White_Marsh%2C_Virginia.jpg "Logo Title Text 1")
 
