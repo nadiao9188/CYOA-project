@@ -1,6 +1,6 @@
 ### You escaped
 ---
-Congratulations! Now it is time to go home 
+Congratulations! Now it's time to go home 
 
 ![Window](https://www.publicdomainpictures.net/pictures/150000/nahled/casa-abbandonata.jpg)
 
