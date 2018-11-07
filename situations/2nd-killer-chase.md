@@ -1,4 +1,4 @@
-### Up Stairs
+### Upstairs
 ---
 You go upstairs and the other killer in the house hears you and chases you. Do you ...
 
